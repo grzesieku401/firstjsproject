@@ -1,0 +1,31 @@
+body{
+    padding-left: 40px;
+}
+
+h1{
+    border-bottom: solid #55575e3d;
+    padding-bottom: 20px;
+}
+
+.btn,
+.output{
+    display: inline-block;
+    padding: 20px;
+    border-radius: 10px;
+    border-style: none;
+
+}
+
+
+.btn{
+    background-color: #47b343;
+    padding: 20px;
+    float: left;
+}
+
+.output{
+    margin-left: 40px;   
+    background: #4e86c7;
+    width: 140px;
+    height: 16px;  
+}
